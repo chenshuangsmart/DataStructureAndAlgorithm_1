@@ -1,0 +1,10 @@
+package com.stack;
+
+public class _224_基本计算器 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,18 @@
+import com.cs.list.ArrayList;
+import com.cs.list.List;
+
+/**
+ * 栈
+ * @author chenshuang
+ *
+ * @param <E>
+ */
+public class Stack<E> {
+	private List<E> list = new ArrayList<>();
+	
+	public int size()) {
+		return list.size();
+	}
+}
+
+

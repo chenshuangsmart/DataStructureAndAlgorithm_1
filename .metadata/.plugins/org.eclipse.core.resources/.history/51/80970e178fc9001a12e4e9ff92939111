@@ -1,0 +1,10 @@
+package com.cs.queue.circle;
+
+/**
+ * 循环单队列 - 使用数组实现 - 可以进行两端添加，删除操作的循环队列
+ * @author chenshuang
+ *
+ */
+public class circleQueue<E> {
+	
+}

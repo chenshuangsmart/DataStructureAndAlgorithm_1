@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Asserts.java&apos; to &apos;03_链表/src/(default package)&apos;&#x0A;- Original project: &apos;02_动态数组&apos;&#x0A;- Destination element: &apos;03_链表/src/(default package)&apos;&#x0A;- Original element: &apos;com.cs.Asserts.java&apos;" description="Copy compilation unit" destination="=03_链表/src&lt;" element1="/src&lt;com.cs{Asserts.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1594046793460" units="1" version="1.0"/>
+</session>
